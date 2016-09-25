@@ -7,7 +7,7 @@ $(document).ready(function() {
 
         setTimeout(function(){
           $('.banner-text h2').addClass('animated fadeInDown content-on');
-          $('.banner-text span').addClass('animated slideInRight').css('display', 'block');
+          $('.banner-text span').addClass('animated slideInRight').css('display', 'inline-block');
           $('.banner-button').addClass('animated infinite pulse').css('visibility', 'visible');
         }, 650);
 
