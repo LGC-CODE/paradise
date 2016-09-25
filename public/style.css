@@ -87,6 +87,7 @@ a {
 
 .banner-text p span {
 	display: none;
+	width: 100%;
 }
 
 .banner-text p strong{
