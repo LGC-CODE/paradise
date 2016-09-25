@@ -6,8 +6,8 @@ $(document).ready(function() {
         $('.ice-cream').addClass('animated infinite pulse');
 
         setTimeout(function(){
-          $('.banner-text h2').addClass('animated fadeInDown content-on');
-          $('.banner-text span').addClass('animated slideInRight').css('display', 'inline-block');
+          $('.banner-text h2 span').addClass('animated fadeInDown content-on');
+          $('.banner-text p span').addClass('animated slideInRight').css('display', 'inline-block');
           $('.banner-button').addClass('animated infinite pulse').css('visibility', 'visible');
         }, 650);
 
